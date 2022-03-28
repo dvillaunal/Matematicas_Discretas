@@ -70,7 +70,7 @@ if x == 1 or x == 0:
     for t in listbin:
         r = r + t
 
-    print(f"\n---------------\nSu carta es: {r}\n---------------")
+    print(f"\n---------------\nSu numero es: {r}\n---------------")
 
 else:
     print("\n---------Numero dado Incorrecto---------")
